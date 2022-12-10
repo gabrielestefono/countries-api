@@ -1,4 +1,6 @@
 @import url(assets/css/header.css);
+@import url(assets/css/searchbar.css);
+@import url(assets/css/flags.css);
 
 .darkmode{
     background-color: rgb(32, 45, 54);

@@ -1,0 +1,44 @@
+.flags{
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    margin: 2rem auto 0 auto;
+    width: calc(100vw - 6rem);
+
+}
+
+.flag__image{
+    width: 100%;
+    height: 8rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.flag__country, .flag__populaton, .flag__region, .flag__capital{
+    color: white;
+}
+
+.flag__country{
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.flag__populaton{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.flag__region{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.flag__capital{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-bottom: 5rem;
+}
