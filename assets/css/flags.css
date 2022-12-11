@@ -1,10 +1,9 @@
 .flags{
     display: flex;
     flex-direction: column;
-    background-color: red;
+    background-color: rgb(43, 55, 67);
     margin: 2rem auto 0 auto;
     width: calc(100vw - 6rem);
-
 }
 
 .flag__image{
